@@ -1,0 +1,3 @@
+log_level: "debug"
+status_service:
+  service_name: "mr-assigner"
